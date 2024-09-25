@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -19,6 +19,3 @@ I’m a Senior Data Scientist focused on using machine learning and AI to solve 
 
 I thrive on turning complex data into actionable insights. Passionate about the future of data science, I actively mentor emerging talent, helping them navigate the field and develop their skills.
 
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
