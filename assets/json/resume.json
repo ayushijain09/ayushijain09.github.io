@@ -33,18 +33,7 @@
       "highlights": ["NLP"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
   "education": [
     {
       "institution": "Georgia Institute of Technology, Atlanta",
@@ -55,13 +44,16 @@
       "startDate": "2021-04-01",
       "endDate": "2022-12-15",
       "score": "3.9/4",
-      "courses": ["AI for Robotics","Machine Learning","Artificial Intelligence","Deep Learning",
-      "Simulation and Modeling for Engineering and Science",
-      "Machine Learning for Trading",
-      "AI for ethics and society",
-      "Network Science",
-      "Graduate Algorithms",
-      "Digital Marketing"]
+      "courses": ["AI for Robotics",
+                  "Machine Learning",
+                  "Artificial Intelligence",
+                  "Deep Learning",
+                  "Simulation and Modeling for Engineering and Science",
+                  "Machine Learning for Trading",
+                  "AI for ethics and society",
+                  "Network Science",
+                  "Graduate Algorithms",
+                  "Digital Marketing"]
     }
   ],
   "awards": [
@@ -201,6 +193,18 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ]
 }
