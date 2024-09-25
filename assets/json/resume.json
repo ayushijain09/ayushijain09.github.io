@@ -29,7 +29,7 @@
       "url": "https://walmart.com",
       "startDate": "2021-04-01",
       "endDate": "_",
-      "summary": "Contributed to Walmart's Search domain, leveraging LLMs to enhance query understanding through models like Specificity Classifier, Query Classification, and Sequence Tagger. These efforts improved item retrieval, search accuracy, and overall user experience, including advancements in visual item recognition",
+      "summary": "Contributed to Search domain, leveraging LLMs to enhance query understanding through models like Specificity Classifier, Query Classification, and Sequence Tagger. These efforts improved item retrieval, search accuracy, and overall user experience, including advancements in visual item recognition",
       "highlights": ["NLP"]
     }
   ],
