@@ -29,7 +29,7 @@
       "url": "https://walmart.com",
       "startDate": "2021-04-01",
       "endDate": "_",
-      "summary": "Contributed to Search domain, leveraging LLMs to enhance query understanding through models like Specificity Classifier, Query Classification, and Sequence Tagger. These efforts improved item retrieval, search accuracy, and overall user experience, including advancements in visual item recognition",
+      "summary": "Contributed to the search domain by leveraging LLMs to enhance query understanding through models like the Specificity Classifier, Query Classification, and Sequence Tagger, while also advancing visual item understanding, resulting in improved item retrieval accuracy, search precision, and overall user experience.",
       "highlights": ["NLP"]
     }
   ],
@@ -59,11 +59,25 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Impact Award",
+      "date": "2024-08-05",
+      "awarder": "Walmart",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Received Walmart's Impact Award for WCP Intent Understanding work."
+    },
+    {
+      "title": "Enterprise IT Achiever Award",
+      "date": "2024-08-05",
+      "awarder": "Walmart",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Received Walmart's Impact Award for WCP Intent Understanding work."
+    },
+    {
+      "title": "Silver Award",
+      "date": "2024-08-05",
+      "awarder": "Walmart",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Received Walmart's Impact Award for WCP Intent Understanding work."
     }
   ],
   "certificates": [
