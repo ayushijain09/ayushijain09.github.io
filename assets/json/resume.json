@@ -43,8 +43,9 @@
       "studyType": "MS in Computer Science",
       "startDate": "2021-04-01",
       "endDate": "2022-12-15",
-      "score": "3.9/4",
-      "courses": ["AI for Robotics",
+      "score": "3.9",
+      "courses": [
+                  "AI for Robotics",
                   "Machine Learning",
                   "Artificial Intelligence",
                   "Deep Learning",
