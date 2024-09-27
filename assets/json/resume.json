@@ -82,9 +82,9 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Deep Learning Specialization",
+      "date": "2019-09-12",
+      "issuer": "DeepLearning.AI",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
@@ -94,35 +94,8 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
+
   ],
   "publications": [
     {
@@ -149,16 +122,39 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Deep Learning",
+        "Model Optimization",
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "name": "Natural Language Processing (NLP)",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Text Classification",
+        "Named Entity Recognition",
+        "Transformer Models",
+        "Language Modeling",
+        "Semantic Search"
+      ]
+    },
+    {
+      "name": "Data Science & Analytics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Data Wrangling",
+        "A/B Testing",
+        "Statistical Modeling",
+        "Time Series Analysis",
+        "Feature Engineering"
       ]
     }
   ],
