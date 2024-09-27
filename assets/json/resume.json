@@ -35,7 +35,7 @@
       ]
     }
   ],
-  
+
   "education": [
     {
       "institution": "Georgia Institute of Technology, Atlanta",
@@ -74,7 +74,7 @@
       "name": "Deep Learning Specialization",
       "date": "2019-09-12",
       "issuer": "DeepLearning.AI",
-      "url": "https://example.com",
+      "url": "https://www.deeplearning.ai/courses/deep-learning-specialization/",
       "icon": "fa-solid fa-location-dot"
     }
   ],
