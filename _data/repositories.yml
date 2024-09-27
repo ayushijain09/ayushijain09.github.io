@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
+  - ayushijain09/Automobile-Dataset-Multiple-Linear-Regression-with-Feature-Selection
+  - ayushijain09/Feature Selection Techniques -2
+  - ayushijain09/Regression-on-COVID-dataset
