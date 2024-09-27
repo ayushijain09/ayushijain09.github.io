@@ -30,7 +30,9 @@
       "startDate": "2021-04-01",
       "endDate": "_",
       "summary": "Contributed to the search domain by leveraging LLMs to enhance query understanding through models like the Specificity Classifier, Query Classification, and Sequence Tagger, while also advancing visual item understanding, resulting in improved item retrieval accuracy, search precision, and overall user experience.",
-      "highlights": ["NLP"]
+      "highlights": [
+        "NLP"
+      ]
     }
   ],
   
@@ -45,16 +47,17 @@
       "endDate": "2022-12-15",
       "score": "3.9",
       "courses": [
-                  "AI for Robotics",
-                  "Machine Learning",
-                  "Artificial Intelligence",
-                  "Deep Learning",
-                  "Simulation and Modeling for Engineering and Science",
-                  "Machine Learning for Trading",
-                  "AI for ethics and society",
-                  "Network Science",
-                  "Graduate Algorithms",
-                  "Digital Marketing"]
+        "AI for Robotics",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Simulation and Modeling for Engineering and Science",
+        "Machine Learning for Trading",
+        "AI for ethics and society",
+        "Network Science",
+        "Graduate Algorithms",
+        "Digital Marketing"
+      ]
     }
   ],
   "awards": [
@@ -160,7 +163,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
@@ -175,7 +181,10 @@
       "startDate": "2022-01-01",
       "endDate": "",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ]
 }
