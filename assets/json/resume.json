@@ -63,28 +63,14 @@
       "date": "2024-08-05",
       "awarder": "Walmart",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Received Impact Award for WCP Intent Understanding work."
-    },
-    {
-      "title": "Enterprise IT Achiever Award",
-      "date": "2024-08-05",
-      "awarder": "Honeywell",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Received Impact Award for WCP Intent Understanding work."
-    },
-    {
-      "title": "Silver Award",
-      "date": "2024-08-05",
-      "awarder": "Honeywell",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Received Impact Award for WCP Intent Understanding work."
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
     {
-      "name": "Deep Learning Specialization",
-      "date": "2019-09-12",
-      "issuer": "DeepLearning.AI",
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
@@ -94,8 +80,35 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
     }
-
   ],
   "publications": [
     {
@@ -135,7 +148,6 @@
       ]
     }
   ],
-  
   "languages": [
     {
       "language": "German",
